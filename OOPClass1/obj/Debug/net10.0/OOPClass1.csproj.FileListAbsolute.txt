@@ -1,0 +1,14 @@
+C:\Users\joaop\Documents\GitHub\OOPClasses\OOPClass1\obj\Debug\net10.0\OOPClass1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaop\Documents\GitHub\OOPClasses\OOPClass1\obj\Debug\net10.0\OOPClass1.AssemblyInfoInputs.cache
+C:\Users\joaop\Documents\GitHub\OOPClasses\OOPClass1\obj\Debug\net10.0\OOPClass1.AssemblyInfo.cs
+C:\Users\joaop\Documents\GitHub\OOPClasses\OOPClass1\obj\Debug\net10.0\OOPClass1.csproj.CoreCompileInputs.cache
+C:\Users\joaop\Documents\GitHub\OOPClasses\OOPClass1\bin\Debug\net10.0\OOPClass1.exe
+C:\Users\joaop\Documents\GitHub\OOPClasses\OOPClass1\bin\Debug\net10.0\OOPClass1.deps.json
+C:\Users\joaop\Documents\GitHub\OOPClasses\OOPClass1\bin\Debug\net10.0\OOPClass1.runtimeconfig.json
+C:\Users\joaop\Documents\GitHub\OOPClasses\OOPClass1\bin\Debug\net10.0\OOPClass1.dll
+C:\Users\joaop\Documents\GitHub\OOPClasses\OOPClass1\bin\Debug\net10.0\OOPClass1.pdb
+C:\Users\joaop\Documents\GitHub\OOPClasses\OOPClass1\obj\Debug\net10.0\OOPClass1.dll
+C:\Users\joaop\Documents\GitHub\OOPClasses\OOPClass1\obj\Debug\net10.0\refint\OOPClass1.dll
+C:\Users\joaop\Documents\GitHub\OOPClasses\OOPClass1\obj\Debug\net10.0\OOPClass1.pdb
+C:\Users\joaop\Documents\GitHub\OOPClasses\OOPClass1\obj\Debug\net10.0\OOPClass1.genruntimeconfig.cache
+C:\Users\joaop\Documents\GitHub\OOPClasses\OOPClass1\obj\Debug\net10.0\ref\OOPClass1.dll
