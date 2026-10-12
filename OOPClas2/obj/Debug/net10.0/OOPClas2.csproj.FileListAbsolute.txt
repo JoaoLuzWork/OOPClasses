@@ -1,0 +1,14 @@
+C:\Users\joaop\Documents\GitHub\OOPClasses\OOPClas2\bin\Debug\net10.0\OOPClas2.exe
+C:\Users\joaop\Documents\GitHub\OOPClasses\OOPClas2\bin\Debug\net10.0\OOPClas2.deps.json
+C:\Users\joaop\Documents\GitHub\OOPClasses\OOPClas2\bin\Debug\net10.0\OOPClas2.runtimeconfig.json
+C:\Users\joaop\Documents\GitHub\OOPClasses\OOPClas2\bin\Debug\net10.0\OOPClas2.dll
+C:\Users\joaop\Documents\GitHub\OOPClasses\OOPClas2\bin\Debug\net10.0\OOPClas2.pdb
+C:\Users\joaop\Documents\GitHub\OOPClasses\OOPClas2\obj\Debug\net10.0\OOPClas2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaop\Documents\GitHub\OOPClasses\OOPClas2\obj\Debug\net10.0\OOPClas2.AssemblyInfoInputs.cache
+C:\Users\joaop\Documents\GitHub\OOPClasses\OOPClas2\obj\Debug\net10.0\OOPClas2.AssemblyInfo.cs
+C:\Users\joaop\Documents\GitHub\OOPClasses\OOPClas2\obj\Debug\net10.0\OOPClas2.csproj.CoreCompileInputs.cache
+C:\Users\joaop\Documents\GitHub\OOPClasses\OOPClas2\obj\Debug\net10.0\OOPClas2.dll
+C:\Users\joaop\Documents\GitHub\OOPClasses\OOPClas2\obj\Debug\net10.0\refint\OOPClas2.dll
+C:\Users\joaop\Documents\GitHub\OOPClasses\OOPClas2\obj\Debug\net10.0\OOPClas2.pdb
+C:\Users\joaop\Documents\GitHub\OOPClasses\OOPClas2\obj\Debug\net10.0\OOPClas2.genruntimeconfig.cache
+C:\Users\joaop\Documents\GitHub\OOPClasses\OOPClas2\obj\Debug\net10.0\ref\OOPClas2.dll
