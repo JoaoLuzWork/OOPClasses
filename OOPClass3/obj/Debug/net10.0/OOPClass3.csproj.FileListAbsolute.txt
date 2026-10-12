@@ -1,0 +1,14 @@
+C:\Users\joaop\Documents\GitHub\OOPClasses\OOPClass3\bin\Debug\net10.0\OOPClass3.exe
+C:\Users\joaop\Documents\GitHub\OOPClasses\OOPClass3\bin\Debug\net10.0\OOPClass3.deps.json
+C:\Users\joaop\Documents\GitHub\OOPClasses\OOPClass3\bin\Debug\net10.0\OOPClass3.runtimeconfig.json
+C:\Users\joaop\Documents\GitHub\OOPClasses\OOPClass3\bin\Debug\net10.0\OOPClass3.dll
+C:\Users\joaop\Documents\GitHub\OOPClasses\OOPClass3\bin\Debug\net10.0\OOPClass3.pdb
+C:\Users\joaop\Documents\GitHub\OOPClasses\OOPClass3\obj\Debug\net10.0\OOPClass3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaop\Documents\GitHub\OOPClasses\OOPClass3\obj\Debug\net10.0\OOPClass3.AssemblyInfoInputs.cache
+C:\Users\joaop\Documents\GitHub\OOPClasses\OOPClass3\obj\Debug\net10.0\OOPClass3.AssemblyInfo.cs
+C:\Users\joaop\Documents\GitHub\OOPClasses\OOPClass3\obj\Debug\net10.0\OOPClass3.csproj.CoreCompileInputs.cache
+C:\Users\joaop\Documents\GitHub\OOPClasses\OOPClass3\obj\Debug\net10.0\OOPClass3.dll
+C:\Users\joaop\Documents\GitHub\OOPClasses\OOPClass3\obj\Debug\net10.0\refint\OOPClass3.dll
+C:\Users\joaop\Documents\GitHub\OOPClasses\OOPClass3\obj\Debug\net10.0\OOPClass3.pdb
+C:\Users\joaop\Documents\GitHub\OOPClasses\OOPClass3\obj\Debug\net10.0\OOPClass3.genruntimeconfig.cache
+C:\Users\joaop\Documents\GitHub\OOPClasses\OOPClass3\obj\Debug\net10.0\ref\OOPClass3.dll
