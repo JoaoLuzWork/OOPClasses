@@ -23,6 +23,10 @@ namespace Polymorphism
             Console.WriteLine("Addition of two numbers: " + overloading.Add(10, 20));
             Console.WriteLine("Addition of three numbers: " + overloading.Add(10, 20, 30));
             Console.WriteLine("Addition of two double numbers: " + overloading.Add(10.1, 20.5));
+
+            Employee employee = new Employee("John Doe");
+            string s = employee.ToString();
+            Console.WriteLine(s);
         }
     }
 }
