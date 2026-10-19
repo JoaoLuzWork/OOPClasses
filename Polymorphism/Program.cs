@@ -19,7 +19,9 @@ namespace Polymorphism
             Animal animal = new Animal("Animal");
             animal.MakeSound();
 
-            Console.ReadLine();
+            Overloading overloading = new Overloading();
+            Console.WriteLine("Addition of two numbers: " + overloading.Add(10, 20));
+            Console.WriteLine("Addition of three numbers: " + overloading.Add(10, 20, 30));
         }
     }
 }
