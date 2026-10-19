@@ -10,7 +10,10 @@ namespace OOPClass3
     {
         static void Main(string[] args)
         {
-            Account account1 = new Account(1000);
+            //
+            //Exercise 3
+            //
+            /*Account account1 = new Account(1000);
             Account account2 = new Account(500);
             Console.WriteLine($"Initial Balance: {account1.Balance}");
             Console.WriteLine($"Initial Balance: {account2.Balance}");
@@ -33,7 +36,16 @@ namespace OOPClass3
             else
             {
                 Console.WriteLine("Debit failed.");
-            }
+            }*/
+
+            //
+            //Exercise 4
+            //
+            
+            Contact contact1 = new Contact("john@example.com", "123-456-7890", "123 Main St");
+            Employee employee1 = new Employee(1, "John Doe", position.Manager);
+            employee1.EmployeeContact = contact1;
+            Console.WriteLine(employee1.DisplayEmployeeInfo());
         }
     }
 }
