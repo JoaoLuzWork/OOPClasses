@@ -11,7 +11,6 @@ namespace Abstraction
     {
         public string Subject { get; set; }
         public string Title { get; set; }
-
         public override int Age { get; set; }
 
         public Teacher(string name, int age, string subject, string title):base(name,age)

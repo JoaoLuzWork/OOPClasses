@@ -58,8 +58,7 @@ namespace OOPClass3
 
         public string DisplayEmployeeInfo()
         {
-            return $"ID: {EmployeeId}, Name: {EmployeeName}, Position: {EmployeePosition}, Email: {EmployeeContact.Email}, Phone: {EmployeeContact.Phone},
-             Address: {EmployeeContact.Address}";
+            return $"ID: {EmployeeId}, Name: {EmployeeName}, Position: {EmployeePosition}, Email: {EmployeeContact.Email}, Phone: {EmployeeContact.Phone},Address: {EmployeeContact.Address}";
         }
     }
 }
